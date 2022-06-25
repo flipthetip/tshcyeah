@@ -14,11 +14,11 @@ idna==2.8
 importlib-metadata==4.11.4
 importlib-resources==5.8.0
 inflection==0.5.1
-itsdangerous==1.1.0
-Jinja2==3.0.3
+itsdangerous
+Jinja2
 jsonify==0.5
 jsonschema==4.6.0
-MarkupSafe==2.0.0
+MarkupSafe
 numpy==1.21.6
 openapi-schema-validator==0.2.3
 openapi-spec-validator==0.4.0
@@ -35,6 +35,6 @@ SQLAlchemy==1.4.37
 swagger-ui-bundle==0.0.9
 typing_extensions==4.2.0
 urllib3==1.25.11
-Werkzeug==1.0.0
+Werkzeug
 wincertstore==0.2
 zipp==3.8.0
